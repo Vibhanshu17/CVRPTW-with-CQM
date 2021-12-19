@@ -2,8 +2,9 @@
 
 Using DWave's latest CQM Solver to implement QUBO for Capacitated Vehicle Routing Problem with Time Windows (CVRPTW).
 
-### Get Test Sets
-### Run the program against the Test Sets
+### 1. Complete src
+### 2. Get Test Sets
+### 3. Run the program against the Test Sets
 
 # To do:
 * implement CQMSolver in solver.py
